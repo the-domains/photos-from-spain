@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[photos from spain]]></title>
-        <description><![CDATA[photos from spain]]></description>
+        <title><![CDATA[Photos from Three Weeks in Spain]]></title>
+        <description><![CDATA[Photos from Three Weeks in Spain]]></description>
         <link>https://thegrid.ai/photos-from-spain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 03:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 23:17:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photos-from-spain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Barecelona]]></title>
+            <description><![CDATA[<article><h1>Barecelona</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/825886af076bcd558a2a6c2d27f2de4fbfa5ed37.jpg"></article>]]></description>
+            <link>https://thegrid.ai/photos-from-spain/barecelona/index.html</link>
+            <guid isPermaLink="false">fed76350-ee96-4e08-a280-4450afa1cce0</guid>
+            <pubDate>Thu, 18 Feb 2016 05:31:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c723101-b4fd-4ba6-957b-50d43896d5a3.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d924c51-8a38-44c8-a782-03f2e5b68d53.jpg">]]></description>
+            <link>https://thegrid.ai/photos-from-spain/757cbd8e-75cd-4f0c-9c40-6c04f1e26664/index.html</link>
+            <guid isPermaLink="false">757cbd8e-75cd-4f0c-9c40-6c04f1e26664</guid>
+            <pubDate>Thu, 18 Feb 2016 05:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arzak]]></title>
+            <description><![CDATA[<article><h1>Arzak</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/262b9180466997786a70c154d4ffa5bf2485dec7.jpg"></article>]]></description>
             <link>https://thegrid.ai/photos-from-spain/922a2e1c-c9cf-4371-8de7-32406bb9a921/index.html</link>
             <guid isPermaLink="false">922a2e1c-c9cf-4371-8de7-32406bb9a921</guid>
-            <pubDate>Thu, 18 Feb 2016 02:58:03 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 23:13:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
