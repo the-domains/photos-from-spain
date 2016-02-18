@@ -1,0 +1,28 @@
+name: photos from spain
+favicon: null
+layout_spectrum: 0.5963039041962475
+typography_spectrum: 0.17081316839903593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3204681344795972
+  lightness: 0.9061814763117582
+  saturation: 0.6014845953322947
+  rhythmicContrast: 0.9312870546709746
+purpose: []
